@@ -1,4 +1,5 @@
 #### Check assumptions Elo package ####
+# we are working
 
 library(EloRating)
 library(lubridate)
